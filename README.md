@@ -14,19 +14,19 @@ Sam Wighton is a programmer with skills focused on system programming and learni
 
 Employed as a full stack developer.
 
-Writing code and unit tests for short and long term projects. Frequently with a Test Driven Development approach.
-
-Sam is able to work quickly. Here is a screenshot of the most recent week long sprint:
-![Sprint Screenshot](images/end_of_week_screenshot_small.png)
-(Week ending 2017-07-07. All but two tasks on screen were started that week)
+This job involves writing code and unit tests for short and long term projects. Frequently with a Test Driven Development approach.
 
 Working with the Elastic stack to provide prompt responses to user actions.
 
-Able to work comfortably in a continuous integration style company. (Code going into production multiple times a day)
+Work also involves monitoring the behaviour of production cloud infrastructure (AWS). 
 
-Work also involves monitoring the behaviour of production cloud infrastructure. 
+Although less often, work at Accelo has also involved statistical analysis of the performance of different versions of code while seeking to improve performance. 
 
-Although less often, work at Accelo has also involved the statistical analysis of different versions of code while seeking to improve performance. 
+Sam is able to work quickly. Here is a screenshot of his most recent week long sprint:
+![Sprint Screenshot](images/end_of_week_screenshot_small.png)
+(Week ending 2017-07-07. All but two tasks on screen were started that week)
+
+Programmers at Accelo are expected to automate processes to reduce workload. Sam has written static analysis tools to assist in refactoring the codebase.
 
 ### Previous Employment at [IMB Bank](http://www.imb.com.au/)
 
@@ -75,29 +75,48 @@ Part hobby, part volunteering, part professional work. Sam has been recording an
 
 Skills that have been acquired in this field have found use in other areas of Sam's life. The audio signal chain is a helpful mental model when considering time-series data analysis. The principals of component extraction from a signal are often similar across disciplines.
 
-Sam has worked on many side projects over the years inspired by issues faced in the field of audio mixing. 
+Sam has written many audio related programs related to processing and analysis. 
 
 ## Side Projects
 
 ### Kaggle Competitions 
 
-### Cloud based Audio mastering 
+![Kaggle Screenshot](images/kaggle_screenshot.jpg)
+
+On the left is a satellite image of the Amazon rainforest. The image was provided as part of the data set from a [Kaggle competition](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space).
+The image on the right is part of the output of a program written by Sam. Colour indicated the algorithm certainty of water (Cyan indicates strong certainty)
+
+This project was undertaken for enjoyment and was written without any machine learning, statistics or maths libraries.
+The programming language [Rust](https://www.rust-lang.org/en-US/) was used. A .PNG file parser was written and the pixel colour information of the 40,000 images was analysed.
+
+The goal of the competition was to tag each image in the test set of images with correct labels according to the content of the images.
+Enabling the program to output confidence values at a per-pixel resolution provided great insight into the performance of the algorithm during development. 
+
+The following shows an example of such output, (at this stage of development, different techniques were being implemented for each tag type) 
+
+![Kaggle Screenshot 2](images/kaggle_multi.png)
+
+### Cloud based Audio mastering
+
+Traditionally, analogue [outboard gear](https://en.wikipedia.org/wiki/Outboard_gear) has been used to modify audio signals.
+Sam has written many stand-alone tools that can perform similar functions to outboard gear.
+
+Applying machine learning to the audio signal chain has created opportunities for new 'content-aware' tools.
+Sam has been writing such tools to be hosted by AWS as a service that could be useful to content creators who want a simple solution.
 
 ### Machine Learning research
 
-Predicting future state changes of nodes (with a high degree of centrality) by modelling the influence of behavioural anomalies in time series graph data.
-
-State changes to nodes with a high eigencentrality
-
+The following is quite early on in progress:
+Data structures and analysis techniques are being investigated
 
 In some systems, there is value in maintaining the current state of an entity. 
+In such a system, it is then also valuable to modify the system to reduce the probability of the entity changing state. 
 
-In such systems, it is then also valuable to keep the system in a state that reduces the probability of the state change of the entity
+Activities and communication in this system can be modelled as a series of events describing the creation and modification of edges and nodes in a graph. 
 
-Events and communication in such a system can be modelled as a time series of directed edges in a graph. 
+The behaviour of an entity in this system is understood as a higher level model describing sequences of actions of the entity.
 
-Behaviour can be understood as sequences of events (with a meta model describing the relationship of these events)
+If the system is optimised for maintaining the state of these important entities, then behaviour of any entity that disrupts such a steady state would be considered anomalous and unwanted.
 
-If the system is optimised for maintaining the state of these important entities, then behaviour that disrupts such a steady state would be considered anomalous.
+Predicting future state changes of nodes (with a high degree of centrality) by modelling the influence of behavioural anomalies in time series graph data.
 
-Assuming all of the above, understanding when the system is currently (or is about to be) is a state that increases the probability of a change to the entity, allows for intervention to return the system back to a more stable state.
