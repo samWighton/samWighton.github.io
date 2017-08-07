@@ -7,22 +7,24 @@ Sam Wighton is a programmer with skills focused on system programming and learni
 [Professional Career](/#professional-career) |
 [Hobbies](/#hobbies) |
 [Side Projects](/#side-projects) |
-[Education](/#education) |
+[Education and Research](/#education-and-research) |
 [Languages](/#languages)
 
 ## Professional Career
 
 ### Current Employment at [Accelo](https://www.accelo.com/)
 
-Employed as a full stack developer.
+Accelo is a web based suite of applications that automates and assists professional service agencies in the running of their business.
 
-This job involves writing code and unit tests. Frequently with a Test Driven Development approach. Sam works on projects, bug fixes and develops internal tools.
+Sam creates and maintains server side code. This involves works on projects, bug fixes and developing internal tools.
 
-Sam is specializing in the code that enforces the business logic of permissions and authorisation. Sam is also often given work that relates to processing graph-style data.
+Sam is specializing in the code that enforces the business logic of permissions and authorisation. Sam is also often given work that relates to processing [graph-style data](https://en.wikipedia.org/wiki/Graph_theory).
+
+This job involves writing unit tests. Development on projects is often undertaken with a Test Driven Development approach.
+
+Work also involves monitoring the behaviour of code in production. Infrastructure is provided by AWS.
 
 Accelo uses the Elastic stack to provide prompt responses to user actions.
-
-Work also involves monitoring the behaviour of code in production. Infrastructure provided by AWS.
 
 Sam's work at Accelo also involves statistical analysis of the performance of different versions of code while seeking to improve performance.
 
@@ -38,7 +40,7 @@ Employed as an Analyst. Also worked as a developer.
 
 Worked on the core legacy system.
 
-Created interoperability between the core system and newly installed [teller cash recyclers](https://arca.com/solutions/cash-recycling).
+Sam created interoperability between the core system and newly installed [teller cash recyclers](https://arca.com/solutions/cash-recycling).
 
 Created web front ends for existing databases.
 
@@ -47,17 +49,26 @@ This allowed the creation of machine readable schemas and web-based documentatio
 
 Promoted the use of version control (now in place) and automated unit testing.
 
-Met up with a board member of the bank to discuss the modernisation of the development process several times. Even after resigning.
+Sam was requested to met up with a board member of the bank to discuss the modernisation of the development process several times. Even after resigning.
 
 ### Contract work
 
 In addition to ongoing employment, Sam also does contract work. (Australian Business Number: 42530866880)
 
-Sam has worked for [Tradimo](https://learn.tradimo.com/about) as a programming coach. This work involved meeting with traders to discuss how automation through programming can assist with trading. Programs to assist with trading were created and distributed on the site.
+Sam has worked for [Tradimo](https://learn.tradimo.com/about) as a programming coach.
+This work involved meeting with traders to discuss how automation through programming can assist with trading. Programs to assist with trading were created and distributed on the site.
 
-Working for the University of Wollongong and related organisations, Sam created programs to assist in the collection and processing of data for academics. His work has been acknowledged in three papers, one of which he is co-author.
+Sam has worked with several teams of market traders from all over the world. Developing for them tools and real time analysis software.
+One small company paid Sam to work for months developing a machine learning approach to calculate the probability vectors of the 'bounding area' the market would move in immediately after a news event.
+Sam is still in frequent contact with the head of this company.
 
-The program written for the above mentioned paper involved the tracking of maggots observed through thermal and visible-light cameras.
+Working for the University of Wollongong and related organisations, Sam created programs to assist in the collection and processing of data for academics.
+His work has been acknowledged in three papers, one of which he is co-author.
+
+The program for the above mentioned paper was written to track the movement of maggots observed with thermal and visible-light cameras.
+
+This research allowed a better understanding of the behaviour and temperatures experienced my maggots while in a host.
+Temperature affects the growth rate of maggots, so this research has lead to better time-of-death estimations in the field of criminal forensics.
 
 Sam wrote a data conversion program for accountancy firm [PKF Lawler](https://www.pkf.com.au/) to assist with government compliance.
 
@@ -65,7 +76,7 @@ After complaints about sound levels at an auditorium, Sam measured samples of th
 
 ### Tutoring
 
-Sam has been providing science, mathematics and programming tutoring for secondary school level students for 6 years.
+Sam has been providing science, mathematics and programming tutoring for secondary school level students for 6 years and is currently still tutoring.
 
 ### Public Speaking
 
@@ -77,13 +88,13 @@ Sam has also talked at meetups and events, and is scheduled to talk at two more 
 
 ### Hackathons, Meetups and Conferences
 
-Sam has participated in a few hackathons. His team won 'Best indie Game' at the most recent 'Hackagong'.
+Sam has participated in a few hackathons. His team won ['Best indie Game'](https://www.facebook.com/hackagong/posts/731918936951663:0) at the most recent 'Hackagong'.
 
 Sam has also participated in internal hackathons at Accelo, and has worked with sponsors and promoters at public hackathons.
 
-Sam assists in the running of a Wollongong based Meetup. He has given a talk 'A.I. for Business' at the meetup.
+Sam assists in the running of a Wollongong based Meetup. He has given a beginner level talk on ['A.I. for Business'](https://youtu.be/iovvZ9GlW6A?t=25m55s) at the meetup.
 
-Both for eduction and networking, Sam attends conferences such as the AWS Summit regularly.
+Both for eduction and networking, Sam attends conferences such as the [AWS Summit](https://aws.amazon.com/summits/sydney/) regularly.
 
 ## Hobbies
 
@@ -93,7 +104,7 @@ Sam takes advantage of having an [indoor climbing gym](http://hangdog.com.au/) w
 
 Climbing more complex routes takes skill and planning, not just physical strength.
 
-There is great satisfaction to be had after achieving a goal through continued persistence.
+Sam has developed good relationships with many other climbers and will go climbing often unless currently injured.
 
 ### Audio Engineering
 ![A local band Sam mixes for](images/band.jpg)
@@ -132,33 +143,7 @@ Sam has written many stand-alone tools that can perform similar functions to out
 Applying machine learning to the audio signal chain has created opportunities for new 'content-aware' tools.
 Sam has been writing such tools to be hosted by AWS as a service that could be useful to content creators who want a simple solution.
 
-### Machine Learning research
-
-Sam is constantly reading the research of others in the fields of Machine Leaning.
-
-Although comfortable using libraries such as TensorFlow, Sam enjoys developing his own techniques for data analysis.
-
-Both as a source of education and enjoyment, Sam will seek out problems that may benefit from a machine learning solution ( such as the [Numerai Hedge Fund](https://numer.ai/) ) and write analysis tools from first principals. A current effort is investigating pairwise dependence of parameters while calculating probability densities to help avoid overfitting due to the 'curse of dimensionality'.
-
-As is is helpful in modelling many real world systems; Sam has been focusing his recent research on Graph Theory.
-
-The following describes the concept of some of Sam's current research:
-Data structures and analysis techniques are being investigated
-
-In some systems, there is value in maintaining the current state of an entity.
-In such a system, it is then also valuable to modify the system to reduce the probability of the entity changing state.
-
-Activities and communication in this system can be modelled as a series of events describing the creation and modification of edges and nodes in a graph.
-
-The behaviour of an entity in this system is understood as a higher level model describing sequences of actions of the entity.
-
-If the system is optimised for maintaining the state of these important entities, then behaviour of any entity that disrupts such a steady state would be considered anomalous and unwanted.
-
-This project would seek to predict future state changes of nodes (with a high degree of centrality) by modelling the influence of behavioural anomalies in time series graph data.
-
-Such a system could suggest the 'lowest cost' solution to returning the system to a more desirable state.
-
-## Education
+## Education and Research
 
 A [Higher School Certificate](<https://en.wikipedia.org/wiki/Higher_School_Certificate_(New_South_Wales)>) was achieved by Sam in 2008 after completing high school.
 
@@ -187,7 +172,34 @@ In his spare time, Sam continued developing his Machine learning knowledge and a
 
 In 2016 Sam learnt the programming languages and frameworks in use at Accelo. Several projects required continued study into statistical analysis and Graph Theory.
 
+Sam is always seeking to learn and will 
+
+### Current Machine Learning research
+
 Sam estimates that he spends more than 10 hours a week of his personal time reading research papers and articles on statistics and machine learning.
+
+Although comfortable using libraries such as TensorFlow, Sam enjoys developing his own techniques for data analysis.
+
+Both as a source of education and enjoyment, Sam will seek out problems that may benefit from a machine learning solution (such as the [Numerai Hedge Fund](https://numer.ai/)).
+
+Sam is currently researching two main areas:
+
+Firstly: Investigating pairwise dependence of parameters while calculating probability densities to help avoid overfitting due to the 'curse of dimensionality'.
+
+Creating insights from time series data represented as the interactions of entities in a dynamic graph. Consider the following:
+
+In some systems, there is value in maintaining the current state of an entity.
+In such a system, it is then also valuable to modify the system to reduce the probability of the entity changing state.
+
+Activities and communication in this system can be modelled as a series of events describing the creation and modification of edges and nodes in a graph. (A dynamic graph that changes over time)
+
+The behaviour of an entity in this system is understood as a higher level model describing sequences of actions of the entity.
+
+If the system is optimised for maintaining the state of these important entities, then behaviour of any entity that disrupts such a steady state would be considered anomalous and unwanted.
+
+This project would seek to predict future state changes of nodes by modelling the influence of behavioural anomalies in time series graph data.
+
+Such a system could suggest the 'lowest cost' solution to returning the system to a more desirable state.
 
 ## Languages
 
@@ -290,7 +302,7 @@ Sam learnt MongoDB while working doing some volunteer work for a Not-for-profit 
 
 #### Redis, Memcached
 
-Redis and Memcached are in use at Accelo and Sam works with them occasionally.
+Redis and Memcached are in use at Accelo to cache particular queries to other databases. Sam interacts with these in-memory databases when modifying permission logic of the core system.
 
 #### Dgraph
 
