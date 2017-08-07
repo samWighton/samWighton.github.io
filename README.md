@@ -318,3 +318,16 @@ Before working as a programmer, Sam provided 'Tech support' for friends and fami
 
 Sam uses a Mac Book pro for most of his programming work and is familiar with the operating system.
 
+## Social Media
+
+[Facebook](https://www.facebook.com/samuel.wighton)
+
+[Twitter](https://twitter.com/SamWighton)
+
+[linkedin](https://www.linkedin.com/in/samuelwighton/)
+
+[Github](https://github.com/samWighton/)
+
+[bitbucket (mostly private)](bitbucket.org/sam_wighton/)
+
+Email: sam@samuelwighton.com
