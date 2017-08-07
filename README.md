@@ -1,8 +1,6 @@
 # Sam Wighton
 
-This page is a draft - there may be errors or missing information
-
-Sam Wighton is a programmer with skills focused on system programming and learning from data
+Sam Wighton is a programmer with skills focused on system programming and machine learning
 
 [Professional Career](/#professional-career) |
 [Hobbies](/#hobbies) |
@@ -152,6 +150,10 @@ As part of his studies, Sam learnt the C programming language. A love of this ne
 
 Reducing from full time study in 2011, Sam began doing programming related contract work. This involved meeting with researchers who worked at the University and developing programs to assist with their research.
 
+Work during this time contributed in a small way to research in biology, forensics and the study of global warming.
+
+Leading on from this work with researchers, Sam co-authored a [research paper in forensics](http://onlinelibrary.wiley.com/doi/10.1111/1556-4029.12472/abstract).
+
 Sam ended his study at the University of Wollongong in 2012 and continued study through online courses.
 
 Sam studied Statistics through the [Massachusetts Institute of Technology OpenCourseWare](https://ocw.mit.edu/index.htm) program. 
@@ -172,7 +174,7 @@ In his spare time, Sam continued developing his Machine learning knowledge and a
 
 In 2016 Sam learnt the programming languages and frameworks in use at Accelo. Several projects required continued study into statistical analysis and Graph Theory.
 
-Sam is always seeking to learn and will 
+Sam is always seeking to learn and is flying to California soon to attend the [@Scale](https://atscaleconference.com/) in San Jose.
 
 ### Current Machine Learning research
 
