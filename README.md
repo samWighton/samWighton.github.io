@@ -77,7 +77,7 @@ Sam has also talked at meetups and events, and is scheduled to talk at two more 
 
 ### Hackathons, Meetups and Conferences
 
-Sam has participated in a few hackathons. His team won 'Best indi Game' at the most recent 'Hackagong'.
+Sam has participated in a few hackathons. His team won 'Best indie Game' at the most recent 'Hackagong'.
 
 Sam has also participated in internal hackathons at Accelo, and has worked with sponsors and promoters at public hackathons.
 
@@ -160,6 +160,35 @@ Such a system could suggest the 'lowest cost' solution to returning the system t
 
 ## Education
 
+A [Higher School Certificate](<https://en.wikipedia.org/wiki/Higher_School_Certificate_(New_South_Wales)>) was achieved by Sam in 2008 after completing high school.
+
+From from 2009 - 2010 Sam studied a Batchelor of Mechatronic Engineering at the [University of Wollongong](https://www.uow.edu.au/index.html).
+As part of his studies, Sam learnt the C programming language. A love of this new skill prompted Sam to take on additional Computer Science subjects and change over to a Bachelor of Computer Science.
+
+Reducing from full time study in 2011, Sam began doing programming related contract work. This involved meeting with researchers who worked at the University and developing programs to assist with their research.
+
+Sam ended his study at the University of Wollongong in 2012 and continued study through online courses.
+
+Sam studied Statistics through the [Massachusetts Institute of Technology OpenCourseWare](https://ocw.mit.edu/index.htm) program. 
+
+Sam began his extensive study of Machine learning through the [Caltech 'Learning from Data'](https://work.caltech.edu/telecourse.html) course.
+
+[Treehouse](https://teamtreehouse.com/home), [Udacity](https://www.udacity.com/), [Coursera](https://www.coursera.org/) and other online education resources provided Sam a strong foundation of programming and Machine Learning knowledge.
+
+Picking contract work that allowed Sam to learn new skills allowed both education and hands on experience with these technologies and techniques.
+
+When time allowed, Sam would write Machine Learning solutions without the use of external libraries.
+This 'penance' forced Sam to fully understand every part of the solution down to first principals of mathematics and logic.
+
+After years of this self driven education, Sam is comfortable developing his own techniques for Machine Learning.
+
+Sam started work at IMB in 2015 and completed courses in a variety of Microsoft Business Products sponsored by the business.
+In his spare time, Sam continued developing his Machine learning knowledge and a moderate amount of contract work.
+
+In 2016 Sam learnt the programming languages and frameworks in use at Accelo. Several projects required continued study into statistical analysis and Graph Theory.
+
+Sam estimates that he spends more than 10 hours a week of his personal time reading research papers and articles on statistics and machine learning.
+
 ## Languages
 
 Languages, libraries and frameworks that Sam is comfortable using
@@ -167,6 +196,8 @@ Languages, libraries and frameworks that Sam is comfortable using
 #### Rust
 
 Rust is Sam's language of choice for projects that require the creation of fast executable files.
+
+All of Sam's recent audio analysis work is written in Rust. Sam has also used Rust to process satellite imagery as part of a recent Kaggle competition.
 
 Compile time checking of correctness of memory usage, a type system based on the [Hindley-Milner Type System](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system), great documentation provided by the Mozilla Foundation, and a maturing package management system make the Rust language a good competitor for tasks previously written in C or C++.
 
@@ -202,7 +233,7 @@ Sam recommends that every programmer learn Haskell even if they never plan to us
 
 Sam has used Haskell at IMB Bank to write documentation creation scripts. Haskell was also a good fit to represent the business logic needed for data conversion at PKF Lawler.
 
-Programs written in Haskell by Sam ran for months without errors on a server processing an inbound Forex data stream.
+Programs written in Haskell by Sam ran for months without error on a server processing a stream of inbound market data.
 
 #### MQL4
 
@@ -240,15 +271,16 @@ Sam has most recently used Node.js while creating AWS Lambda functions.
 
 Unibasic is a proprietary language used to build the core legacy system in use at IMB Bank. Sam is competent in this language but does not want to use it again.
 
-#### C#
+#### C&#35;
 
-Sam has used C# briefly while creating the game ['Blue Skies'](https://www.facebook.com/hackagong/posts/731918936951663:0) which won the 'Best Indi Game' award at a hackathon.
+Sam has used C# briefly while creating the game ['Blue Skies'](https://www.facebook.com/hackagong/posts/731918936951663:0) which won the 'Best Indie Game' award at a hackathon.
 
 C# has also been used by Sam at IMB Bank to create web interfaces to existing databases.
 
 #### MySQL / MariaDB
 
-Many different database technologies are in use at Accelo. Sam interacts mostly with MariaDB. Sam is comfortable writing queries from a shell prompt, calling the database from the Perl code and generating more complex queries from code.
+Many different database technologies are in use at Accelo. Sam interacts mostly with MariaDB.
+Sam is comfortable writing queries from a shell prompt, calling the database from the Perl code and generating more complex queries from code.
 
 Sam is often tasked with improving the performance of existing queries.
 
