@@ -141,7 +141,10 @@ Climbing more complex routes takes skill and planning, not just physical strengt
 
 Sam has developed good relationships with many other climbers goes climbing often.
 
-### Audio Engineering 2003 - Current
+### Audio Engineering
+
+2003 - Current
+
 ![A local band Sam mixes for](images/band.jpg)
 
 The image above is a local band that Sam mixes for once a month.
