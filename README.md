@@ -1,6 +1,6 @@
 # Sam Wighton
 
-Sam Wighton is a programmer with skills focused on system programming and machine learning
+Sam Wighton is a programmer with skills focused on system programming and machine learning.
 
 [Professional Career](/#professional-career) |
 [Hobbies](/#hobbies) |
@@ -12,19 +12,34 @@ Sam Wighton is a programmer with skills focused on system programming and machin
 
 ### Current Employment at [Accelo](https://www.accelo.com/)
 
-Accelo is a web based suite of applications that automates and assists professional service agencies in the running of their business.
+January 2016 - Current
+
+Accelo is a fast growing international startup with main offices located in San Francisco, California and Wollongong, Australia.
+The Accelo product is a web based suite of applications that automates and assists professional service agencies in the running of their business. This includes CRM, issue tracking, project management, scheduling, contracts and service automation. 
 
 Sam creates and maintains server side code. This involves works on projects, bug fixes and developing internal tools.
 
-Sam is specializing in the code that enforces the business logic of permissions and authorisation. Sam is also often given work that relates to processing [graph-style data](https://en.wikipedia.org/wiki/Graph_theory).
+Sam works on projects in a team that can range from four to twelve developers. Sam frequently communicates with other departments as required by the work. 
+
+When working on bug fixes, Sam will mostly work alone until the code is ready for review and testing.
+
+At Accelo, Sam specialises in the code that enforces the business logic of permissions and authorisation.
+
+Accelo stores a variety of complex data with intricate relationships. Sam is also often given work that relates to processing [graph-style data](https://en.wikipedia.org/wiki/Graph_theory).
 
 This job involves writing unit tests. Development on projects is often undertaken with a Test Driven Development approach.
 
 Work also involves monitoring the behaviour of code in production. Infrastructure is provided by AWS.
 
-Accelo uses the Elastic stack to provide prompt responses to user actions.
+Sam worked on the invoicing system upgrade project. This provided customers a better user experience when invoicing their own clients.
+
+Currently Sam is working on the upgrade of the scheduling system. Work done so far has been meet with very positive feedback from clients.
+
+Sam will be team lead on the upcoming machine-learning project.
 
 Sam's work at Accelo also involves statistical analysis of the performance of different versions of code while seeking to improve performance.
+
+The Elastic stack is used at Accelo to provide real time feedback to user actions and to provide always-current global search results.
 
 Sam is able to work quickly. Here is a screenshot of his most recent week long sprint:
 ![Sprint Screenshot](images/end_of_week_screenshot_small.png)
@@ -34,31 +49,46 @@ Programmers at Accelo are expected to automate processes to reduce workload. Sam
 
 ### Previous Employment at [IMB Bank](http://www.imb.com.au/)
 
-Employed as an Analyst. Also worked as a developer.
+May 2015 - January 2016
 
-Worked on the core legacy system.
+Established in 1880 IMB Bank is an Australian Bank providing banking services and supporting community programs.
 
-Sam created interoperability between the core system and newly installed [teller cash recyclers](https://arca.com/solutions/cash-recycling).
+Employed as a developer and promoted to an analyst after six months.
 
+Worked on the core legacy system. Adding functionality and resolving issues.
+
+Wrote specifications and reports as an analyst. Updated and created documentation on Technology related processes.
 Created web front ends for existing databases.
 
-Wrote a parser to convert human readable database schemas (for the core noSQL database).
-This allowed the creation of machine readable schemas and web-based documentation.
+Sam worked on the project that created interoperability between the core system and newly installed [teller cash recyclers](https://arca.com/solutions/cash-recycling).
+As part of this project, Sam met with the hardware providers to learn about the systems API.
+Sam wrote and presented a report on different integration approaches.
+Sam created a web page to assist development that showed the XML required to move the machine between each state required in a transaction.
+Most of the system code was written by Sam on this project.
+This project met all deadlines.
+Customers can now deposit and withdraw cash in open-plan branches.
+
+Sam wrote a parser to interpret human readable database schemas (for the core noSQL database).
+This allowed the creation of stricter machine readable schemas and the generation of web-based documentation.
 
 Promoted the use of version control (now in place) and automated unit testing.
 
-Sam was requested to met up with a board member of the bank to discuss the modernisation of the development process several times. Even after resigning.
+Sam has meet up with a board member of the bank to discuss the modernisation of the development process multiple times. Even after resigning.
 
 ### Contract work
 
-In addition to ongoing employment, Sam also does contract work. (Australian Business Number: 42530866880)
+In addition to ongoing employment, Sam also does contract work. (Australian Business Number: [42530866880](http://www.abr.business.gov.au/SearchByAbn.aspx?SearchText=42530866880) Active from Sep 2012)
 
-Sam has worked for [Tradimo](https://learn.tradimo.com/about) as a programming coach.
+#### Finance and market trading 2013 - 2015
+
+Sam has worked for the market trading education company [Tradimo](https://learn.tradimo.com/about) as a programming coach.
 This work involved meeting with traders to discuss how automation through programming can assist with trading. Programs to assist with trading were created and distributed on the site.
 
 Sam has worked with several teams of market traders from all over the world. Developing for them tools and real time analysis software.
-One small company paid Sam to work for months developing a machine learning approach to calculate the probability vectors of the 'bounding area' the market would move in immediately after a news event.
+One company paid Sam to work part time for four months developing a machine learning approach to calculate the probability vectors of the 'bounding area' the market would move in immediately after a news event.
 Sam is still in frequent contact with the head of this company.
+
+#### Academic 2012 - 2015
 
 Working for the University of Wollongong and related organisations, Sam created programs to assist in the collection and processing of data for academics.
 His work has been acknowledged in three papers, one of which he is co-author.
@@ -68,17 +98,24 @@ The program for the above mentioned paper was written to track the movement of m
 This research allowed a better understanding of the behaviour and temperatures experienced my maggots while in a host.
 Temperature affects the growth rate of maggots, so this research has lead to better time-of-death estimations in the field of criminal forensics.
 
+#### Accounting 2014 - 2015
+
 Sam wrote a data conversion program for accountancy firm [PKF Lawler](https://www.pkf.com.au/) to assist with government compliance.
+This contract gave Sam experience with the [Quickbooks](https://www.intuit.com.au/hp-c/) program. This has been helpful when working on Quickbooks integration at Accelo.
 
-After complaints about sound levels at an auditorium, Sam measured samples of the audio energy levels, created a model of the energy distribution and presented a report to managers.
+#### Audio
 
-### Tutoring
+Managers of an auditorium sought Sam's assistance to create a report on the distribution of sound energy from the auditorium speakers.
+This assisted in addressing complaints about sound levels.
+Sam took measurements and created a model of the energy distribution and presented a report to managers.
 
-Sam has been providing science, mathematics and programming tutoring for secondary school level students for 6 years and is currently still tutoring.
+#### Tutoring 2012 - Current
+
+Sam has been providing science, mathematics and programming tutoring for secondary school level students for 6 years (since 2012) and is currently still tutoring.
 
 ### Public Speaking
 
-Sam has given several programming related talks:
+Sam has given several programming related talks.
 
 Sam has been invited to speak to the developers or owners of companies on four occasions. These talks were on the topic of machine learning; with the content personalised for each company.
 
@@ -102,14 +139,18 @@ Sam takes advantage of having an [indoor climbing gym](http://hangdog.com.au/) w
 
 Climbing more complex routes takes skill and planning, not just physical strength.
 
-Sam has developed good relationships with many other climbers and will go climbing often unless currently injured.
+Sam has developed good relationships with many other climbers goes climbing often.
 
-### Audio Engineering
+### Audio Engineering 2003 - Current
 ![A local band Sam mixes for](images/band.jpg)
 
 The image above is a local band that Sam mixes for once a month.
 
-Part hobby, part volunteering, part professional work. Sam has been recording and mixing audio for more than 14 years.
+Part hobby, part volunteering, part professional work. Sam has been recording and mixing audio for more than 14 years (2003 onwards).
+
+Sam has mixed audio at over 350 live events. These include corporate events, press launches, weddings, school functions, concerts and pub gigs. Sam has also worked with film crews recording music videos and content for Youtube.
+
+Sam also provides wireless microphones for live broadcast and recording of the ['Siligong Valley'](https://www.meetup.com/en-AU/iaccelerate/events/237325054/) meetups.
 
 Skills that have been acquired in this field have found use in other areas of Sam's life. The audio signal chain is a helpful mental model when considering time-series data analysis. The principals of component extraction from a signal are often similar across disciplines.
 
@@ -121,7 +162,7 @@ Sam has written many programs related to processing and analysis of audio data.
 ![Kaggle Screenshot](images/kaggle_screenshot.jpg)
 
 On the left is a satellite image of the Amazon rainforest. The image was provided as part of the data set from a [Kaggle competition](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space).
-The image on the right is part of the output of a program written by Sam. Colour indicated the algorithm certainty of water (Cyan indicates strong certainty)
+The image on the right is part of the output of a program written by Sam. Colour indicated the algorithm certainty of water (Cyan indicates strong certainty).
 
 This project was undertaken for enjoyment and was written without any machine learning, statistics or maths libraries.
 The programming language [Rust](https://www.rust-lang.org/en-US/) was used. A .PNG file parser was written and the pixel colour information of the 40,000 images was analysed.
@@ -129,7 +170,7 @@ The programming language [Rust](https://www.rust-lang.org/en-US/) was used. A .P
 The goal of the competition was to tag each image in the test set of images with correct labels according to the content of the images.
 Enabling the program to output confidence values at a per-pixel resolution provided great insight into the performance of the algorithm during development.
 
-The following shows an example of such output, (at this stage of development, different techniques were being implemented for each tag type)
+The following shows an example of such output, (at this stage of development, different techniques were being implemented for each tag type).
 
 ![Kaggle Screenshot 2](images/kaggle_multi.png)
 
