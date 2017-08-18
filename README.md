@@ -372,6 +372,6 @@ Sam uses a Mac Book pro for most of his programming work and is familiar with th
 
 [Github](https://github.com/samWighton/)
 
-[bitbucket (mostly private)](bitbucket.org/sam_wighton/)
+[bitbucket](https://bitbucket.org/sam_wighton/) - mostly private
 
 Email: sam@samuelwighton.com
