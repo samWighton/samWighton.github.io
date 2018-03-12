@@ -15,29 +15,38 @@ Sam Wighton is a programmer with skills focused on system programming and machin
 January 2016 - Current
 
 Accelo is a fast growing international startup with main offices located in San Francisco, California and Wollongong, Australia.
-The Accelo product is a web based suite of applications that automates and assists professional service agencies in the running of their business. This includes CRM, issue tracking, project management, scheduling, contracts and service automation. 
+The Accelo product is a web based suite of applications that automates and assists professional service agencies in the running of their business. This includes CRM, issue tracking, project management, scheduling, contracts and service automation.
 
-Sam creates and maintains server side code. This involves works on projects, bug fixes and developing internal tools.
+DevOps work
 
-Sam works on projects in a team that can range from four to twelve developers. Sam frequently communicates with other departments as required by the work. 
+Sam joined the DevOps team in late 2017. Knowledge of the backend codebase and DevOps skills gained through non-Accelo contract work made him a good candidate for a hybrid Developer + DevOps role.
 
-When working on bug fixes, Sam will mostly work alone until the code is ready for review and testing.
+In this role Sam has worked on a system to migrate data to a new database system without downtime.
 
-At Accelo, Sam specialises in the code that enforces the business logic of permissions and authorisation.
+He has also converted old batch processes to streamed processes. These have improved the user experience by providing always up-to-date data.
 
-Accelo stores a variety of complex data with intricate relationships. Sam is also often given work that relates to processing [graph-style data](https://en.wikipedia.org/wiki/Graph_theory).
+This work involves re-designing existing processes for better performance, improved security or regulation compliance.
 
-This job involves writing unit tests. Development on projects is often undertaken with a Test Driven Development approach.
+Backend Developer work
+
+Prior to joining the DevOps team; Sam created and maintained server side code. This involved work on projects, bug fixes and developing internal tools.
+
+Sam worked on projects in a team that ranged from four to twelve developers. Sam frequently communicated with other departments as required by the work.
+
+When working on the backend code; Sam specialised in the code that enforced the business logic of permissions and authorisation.
+
+Accelo stores a variety of complex data with intricate relationships. Sam was often given work that related to processing [graph-style data](https://en.wikipedia.org/wiki/Graph_theory).
+
+Both backend and DevOps roles involve writing unit tests. Development on projects is often undertaken with a Test Driven Development approach.
 
 Work also involves monitoring the behaviour of code in production. Infrastructure is provided by AWS.
 
 Sam worked on the invoicing system upgrade project. This provided customers a better user experience when invoicing their own clients.
 
-Currently Sam is working on the upgrade of the scheduling system. Work done so far has been meet with very positive feedback from clients.
-
-Sam will be team lead on the upcoming machine-learning project.
+Sam also worked on the upgrade of the scheduling system. This project was met with very positive feedback from clients.
 
 Sam's work at Accelo also involves statistical analysis of the performance of different versions of code while seeking to improve performance.
+![Performance Screenshot](images/performance_testing.png)
 
 The Elastic stack is used at Accelo to provide real time feedback to user actions and to provide always-current global search results.
 
@@ -78,6 +87,14 @@ Sam has meet up with a board member of the bank to discuss the modernisation of 
 ### Contract work
 
 In addition to ongoing employment, Sam also does contract work. (Australian Business Number: [42530866880](http://www.abr.business.gov.au/SearchByAbn.aspx?SearchText=42530866880) Active from Sep 2012)
+
+#### Current (2018) contract work
+
+Sam is currently working on the prediction of agriculture prices with [Hivexchange](https://hivexchange.com.au/)
+
+Sam has recently created a proof-of-concept A.I. for [Canva](https://about.canva.com/) that learns about colour preferences of users. This allows the suggestion and scoring of font colours for a given background.
+
+A musician based in USA is using Sam's code to clean up audio recordings.
 
 #### Finance and market trading 2013 - 2015
 
@@ -200,7 +217,7 @@ Leading on from this work with researchers, Sam co-authored a [research paper in
 
 Sam ended his study at the University of Wollongong in 2012 and continued study through online courses.
 
-Sam studied Statistics through the [Massachusetts Institute of Technology OpenCourseWare](https://ocw.mit.edu/index.htm) program. 
+Sam studied Statistics through the [Massachusetts Institute of Technology OpenCourseWare](https://ocw.mit.edu/index.htm) program.
 
 Sam began his extensive study of Machine learning through the [Caltech 'Learning from Data'](https://work.caltech.edu/telecourse.html) course.
 
