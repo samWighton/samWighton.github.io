@@ -282,7 +282,9 @@ This pairing allows the performance of a low level language and the infrastructu
 
 #### Perl
 
-Sam has used Perl throughout his employment at Accelo. Perl is used at Accelo for the creation of API endpoints used by the Accelo application.
+Sam has used Perl throughout his employment at Accelo. Perl is used at Accelo for the creation of API endpoints used by the Accelo application. Perl is also used as a 'glue' language to tie the parts of the product together. Sam has used Perl in a strict form for writing business logic, and in a more relaxed form for creating scripts.
+
+Sam would recommend against writing a production system in Perl, the 'there is more than one way to do it' ideology of the Perl community seems harmful in multi-developer production systems.
 
 #### C and C++
 
@@ -291,6 +293,8 @@ Sam learnt C at University as part of his Batchelor of Mechatronic Engineering. 
 Sam also learnt C++ at university, C++ become Sam's language of choice for most side projects.
 
 C++ and [SDL](https://www.libsdl.org/) were the key technologies used to create the interface and for data analysis for the research paper Sam co-authored.
+
+When needing to profile different implementations of an algorithm or view assembly, Sam will compile with GCC. This allows a super fast developer cycle.
 
 #### Python
 
