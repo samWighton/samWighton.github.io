@@ -1,5 +1,7 @@
 # Sam Wighton
 
+last updated in 2018
+
 Sam Wighton is a programmer with skills focused on system programming and machine learning.
 
 [Professional Career](/#professional-career) |
